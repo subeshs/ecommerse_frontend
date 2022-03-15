@@ -1,0 +1,1 @@
+This website is the basic implementation of the Responsoive frontend part of website development
